@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+boto3
+pandas
+python-dotenv
+openpyxl
+vaderSentiment
+groq
+youtube-transcript-api
+pytube
+psycopg2-binary
+pytube
+pydantic
+beautifulsoup4
+requests
+httpx
